@@ -33,20 +33,13 @@ p {
   border: 2px solid white;
 }
 
-@media screen and (min-width: 600px) { body 
-  background-color: red;
-}
-}
-
-
-@media screen and (min-width: 800px) { body 
-  background-color: yellow;
-}
+@media screen and (min-width: 800px) { 
+	body {background-color: #28112B;}
+  
 }
 
-@media screen and (min-width: 1000px) { body 
-  background-color: purple;
+@media screen and (min-width: 1000px) { 
+	body {background-color: #453643;}
+  
 }
-}
-
 
